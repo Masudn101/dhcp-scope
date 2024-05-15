@@ -1,4 +1,4 @@
-# dhcp-scope
+# dhcp-scope-Powershell-commands
 for windows server
 
 
